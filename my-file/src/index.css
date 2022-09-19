@@ -1,5 +1,6 @@
 body{
   background-color: #111214;
+  color: white;
   font-weight: 15px;
 }
 .main{
@@ -60,4 +61,16 @@ body{
 }
 .pdate{
   color: rgba(245, 245, 245, 0.582);
+}
+.light {
+  --bg-color: rgb(247, 247, 247);
+  --main-color: black;
+  --twitter-color: #1A8CD8;
+  --lightGray-color: #E7E7E8;
+}
+.dark{
+  --bg-color: rgb(21, 32, 43);
+  --main-color: white;
+  --twitter-color: #1A8CD8;
+  --lightGray-color: #273340;
 }
