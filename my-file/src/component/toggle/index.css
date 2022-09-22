@@ -1,0 +1,8 @@
+.btn{
+    border: 0px;
+    color: var(--bg-color);
+    background-color: var(--bg-color);
+}
+.but{
+    color: var(--fg-color);
+}

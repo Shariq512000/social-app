@@ -1,0 +1,27 @@
+.lb{
+    background-color: var(--bg-color);
+    color: var(--fg-color);
+    display: flex;
+    flex-direction: column;
+    overflow-y: hidden;
+    font-family: sans-serif;
+
+    
+}
+.lb .pspc{
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+}
+.fs{
+    display: flex;
+    flex-direction: row;
+}
+.fs .tx{
+   font-size: 15px;
+   margin-top: 5px;
+   margin-left: 5px;
+}
+.lebr{
+    margin-top: 10px;
+}

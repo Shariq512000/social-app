@@ -1,13 +1,13 @@
 .main{
     font-family: sans-serif;
-    background-color: rgb(34, 35, 37);
-    color: white;
+    background-color: var(--bg-color);
+    color: var(--fg-color-2);
     width: 400px;
     /* border: 1px solid rgb(56, 55, 55); */
     border-radius: 20px;
     padding: 15px  0px  15px  0px;
     align-items: center;
-    margin: 20px;
+    /* margin: 20px; */
     font-weight: 15px;
   }
   .main hr{
@@ -55,13 +55,5 @@
     color: rgb(79, 79, 250);
   }
   .pdate{
-    color: rgba(245, 245, 245, 0.582);
-  }
-  .light{
-    background-color: white;
-    color: #111214;
-  }
-  .dark{
-    background-color: #111214;
-    color: white;
+    color: var(--post-date);
   }

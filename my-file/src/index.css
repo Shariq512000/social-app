@@ -1,17 +1,19 @@
 body{
-  background-color: #111214;
-  color: white;
+  background-color: var(--bg-color-2);
+  color: var(--fg-color-2);
   font-weight: 15px;
+  margin: 0px;
+  padding: 0px;
 }
 .main{
   font-family: sans-serif;
-  background-color: rgb(34, 35, 37);
-  color: white;
+  background-color: var(--bg-color);
+  color: var(--fg-color);
   width: 400px;
   /* border: 1px solid rgb(56, 55, 55); */
   border-radius: 20px;
   padding: 15px  0px  15px  0px;
-  align-items: center;
+  /* align-items: center; */
   margin: 20px;
   font-weight: 15px;
 }
@@ -32,7 +34,7 @@ body{
 .page{
   display: flex;
   flex-direction: column;
-  align-items: center;
+  /* align-items: center; */
 }
 .main .mainpf{
   display: flex;
@@ -62,15 +64,27 @@ body{
 .pdate{
   color: rgba(245, 245, 245, 0.582);
 }
-.light {
-  --bg-color: rgb(247, 247, 247);
-  --main-color: black;
-  --twitter-color: #1A8CD8;
-  --lightGray-color: #E7E7E8;
+.page .lbrb{
+  margin-top: 80px;
+  display: flex;
+  flex-direction: row;
+  /* color: beige; */
+  justify-content: space-between;
 }
+/* .lbrb .leftbr{
+  
+} */
 .dark{
-  --bg-color: rgb(21, 32, 43);
-  --main-color: white;
-  --twitter-color: #1A8CD8;
-  --lightGray-color: #273340;
+  --bg-color: rgb(34, 35, 37);
+  --bg-color-2: black;
+  --fg-color: beige;
+  --fg-color-2: white;
+  --post-date: rgba(245, 245, 245, 0.582);
+}
+.light{
+  --bg-color: beige;
+  --bg-color-2: white;
+  --fg-color: rgb(34, 35, 37);
+  --fg-color-2: black;
+  --post-date: rgba(0, 0, 0, 0.719);
 }

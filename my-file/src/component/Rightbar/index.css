@@ -1,0 +1,13 @@
+.rb{
+    background-color: var(--bg-color);
+    color: var(--fg-color);
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    font-family: sans-serif;
+}
+.rb .pspc{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
