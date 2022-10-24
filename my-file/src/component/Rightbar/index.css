@@ -3,11 +3,27 @@
     color: var(--fg-color);
     display: flex;
     flex-direction: column;
-    overflow-y: scroll;
+    overflow-y: hidden;
     font-family: sans-serif;
+    height: 100vh;
+    position: fixed;
+    right: 0%;
+    width: 250px;
+    font-size: 20px;
 }
 .rb .pspc{
     width: 40px;
     height: 40px;
     border-radius: 50px;
+    margin-top: 12px;
+}
+.ppss{
+    margin-left: 10px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.pcnm{
+    margin-top: 20px;
+    margin-left: 5px;
 }

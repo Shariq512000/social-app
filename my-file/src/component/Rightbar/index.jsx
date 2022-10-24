@@ -8,32 +8,32 @@ let Rightbar = () => (
     <div className="rb">
 
 
-        <div>
-            <img src="https://tinyurl.com/euy4hh84" className="pspc" /> Muhammad Haris
+        <div className="ppss">
+            <img src="https://tinyurl.com/euy4hh84" className="pspc" /> <div className="pcnm">Muhammad Haris</div>
         </div>
-        <div>
-            <img src="https://tinyurl.com/ycka88da" className="pspc" /> Ahsan Shaikh
+        <div className="ppss">
+            <img src="https://tinyurl.com/euy4hh84" className="pspc" /> <div className="pcnm">Ahsan Shaikh</div>
         </div>
-        <div>
-            <img src="https://tinyurl.com/36tzud47" className="pspc" /> Sheroz Siddiqui
+        <div className="ppss">
+            <img src="https://tinyurl.com/euy4hh84" className="pspc" /> <div className="pcnm">Sheroz Siddiqui</div>
         </div>
-        <div>
-            <img src="https://tinyurl.com/2p92dvp4" className="pspc" /> Sheikh Shayan
+        <div className="ppss">
+            <img src="https://tinyurl.com/euy4hh84" className="pspc" /> <div className="pcnm">Sheikh Shayan</div>
         </div>
-        <div>
-            <img src="https://tinyurl.com/y6u3s3j9" className="pspc" /> Uzair Ahmed
+        <div className="ppss">
+            <img src="https://tinyurl.com/euy4hh84" className="pspc" /> <div className="pcnm">Uzair Ahmed</div>
         </div>
-        <div>
-            <img src="https://tinyurl.com/2tuj7ed4" className="pspc" /> Hammad Khan
+        <div className="ppss">
+            <img src="https://tinyurl.com/euy4hh84" className="pspc" /> <div className="pcnm">Hammad Khan</div>
         </div>
-        <div>
-            <img src="https://tinyurl.com/ycka88da" className="pspc" /> Fahad Siddiqui
+        <div className="ppss">
+            <img src="https://tinyurl.com/euy4hh84" className="pspc" /> <div className="pcnm">Fahad Siddiqui</div>
         </div>
-        <div>
-            <img src="https://tinyurl.com/euy4hh84" className="pspc" /> Alqama Shuja
+        <div className="ppss">
+            <img src="https://tinyurl.com/euy4hh84" className="pspc" /> <div className="pcnm">Alqama Shuja</div>
         </div>
-        <div>
-            <img src="https://tinyurl.com/2tuj7ed4" className="pspc" /> Ali Yousufzai
+        <div className="ppss">
+            <img src="https://tinyurl.com/euy4hh84" className="pspc" /> <div className="pcnm">Ali Yousufzai</div>
         </div>
 
 

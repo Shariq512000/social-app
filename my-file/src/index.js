@@ -41,35 +41,35 @@ let Page = () => {
         />
         <Post
           name="Farhan Sheikh"
-          profilepicture="https://tinyurl.com/ycka88da"
+          profilepicture="https://tinyurl.com/euy4hh84"
           date="11 sep 2022 17:20"
           posttext="Memories"
-          postimage="https://tinyurl.com/bdctj8ft"
+          postimage="https://blog.contentstudio.io/wp-content/uploads/2021/03/5-1024x696.jpg"
         />
         <Post
           name="Sheroz Siddiqui"
-          profilepicture="https://tinyurl.com/36tzud47"
+          profilepicture="https://tinyurl.com/euy4hh84"
           date="7 sep 2022"
           posttext=""
-          postimage="https://tinyurl.com/2p8k5ma3"
+          postimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF10AFZMWIwE28Q8CPT16OLVuprGcSnH-r6xOBaqoP-cmNJ9KnlUgVkGzjUXlslqRllaM&usqp=CAU"
         />
         <Post
           name="Ch Talha"
-          profilepicture="https://tinyurl.com/2p92dvp4"
+          profilepicture="https://tinyurl.com/euy4hh84"
           date="15 sep 2022"
           posttext="Not everyone's cup of tea"
-          postimage="https://tinyurl.com/mrybt9zs"
+          postimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4fXr_Rm7h3157N-kUZQpWMKUtqiFI5iNX2Sh1tvAip8Ty7vmSfgkPb5PBiWeVL2F9j8&usqp=CAU"
         />
         <Post
           name="Code Tech"
-          profilepicture="https://tinyurl.com/y6u3s3j9"
+          profilepicture="https://tinyurl.com/euy4hh84"
           date="6 sep 2022"
           posttext="Haha"
-          postimage="https://tinyurl.com/mpx5wdbm"
+          postimage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6IAbJaZGbYnLo_DvjRXclsYKnPg-UeLY0r7BvX5GgLsTm5wPTcC_xKKssOUijFv4zbI&usqp=CAU"
         />
         <Post
           name="Mohammad Hammad"
-          profilepicture="https://tinyurl.com/2tuj7ed4"
+          profilepicture="https://tinyurl.com/euy4hh84"
           date="5 sep 2022"
           posttext="Lol"
           postimage="https://d2kspx2x29brck.cloudfront.net/1200x675/filters:format(webp)/img/iea/yrwQvLJbON/programmer-memes.jpg"
